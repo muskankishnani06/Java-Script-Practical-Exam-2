@@ -2,6 +2,8 @@
 
 This repository contains JavaScript programs based on **conditions, loops, and nested loops**.
 
+Video link :- https://drive.google.com/file/d/1iDHpVy2zYRXLDsBMP_FlfZzxvaU9-8wE/view?usp=drive_link
+
 ## 📚 Programs
 
 | No. | Program                                                 | Description                                                     |
